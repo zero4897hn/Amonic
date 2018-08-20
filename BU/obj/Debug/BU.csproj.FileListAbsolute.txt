@@ -1,0 +1,10 @@
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\BU.dll
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\BU.pdb
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\DAL.dll
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\Utilities.dll
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\DAL.pdb
+E:\Document\C sharp\Project\Amonic\BU\bin\Debug\Utilities.pdb
+E:\Document\C sharp\Project\Amonic\BU\obj\Debug\BU.csprojResolveAssemblyReference.cache
+E:\Document\C sharp\Project\Amonic\BU\obj\Debug\BU.csproj.CoreCompileInputs.cache
+E:\Document\C sharp\Project\Amonic\BU\obj\Debug\BU.dll
+E:\Document\C sharp\Project\Amonic\BU\obj\Debug\BU.pdb

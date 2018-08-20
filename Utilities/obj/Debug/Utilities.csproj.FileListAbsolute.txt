@@ -1,0 +1,6 @@
+E:\Document\C sharp\Project\Amonic\Utilities\bin\Debug\Utilities.dll
+E:\Document\C sharp\Project\Amonic\Utilities\bin\Debug\Utilities.pdb
+E:\Document\C sharp\Project\Amonic\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\Document\C sharp\Project\Amonic\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+E:\Document\C sharp\Project\Amonic\Utilities\obj\Debug\Utilities.dll
+E:\Document\C sharp\Project\Amonic\Utilities\obj\Debug\Utilities.pdb
